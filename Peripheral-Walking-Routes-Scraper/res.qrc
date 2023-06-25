@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="res/">
+        <file alias="timg.jpg">res/timg.jpg</file>
+        <file alias="btn.wav">res/btn.wav</file>
+        <file alias="finish.wav">res/finish.wav</file>
+    </qresource>
+</RCC>
